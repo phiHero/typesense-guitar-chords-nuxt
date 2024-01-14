@@ -4,6 +4,7 @@
 
 - <a href="https://github.com/typesense/typesense" target="_blank">Typesense</a>
 - Nuxt. There is also a [NextJS version](https://github.com/phiHero/typesense-guitar-chords-nextjs)
+- Vue-instantsearch and <a href="https://github.com/typesense/typesense-instantsearch-adapter" target="_blank">Typesense Instantsearch Adapter</a>
 - Typescript
 - Cypress
 
